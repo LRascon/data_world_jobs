@@ -1,12 +1,12 @@
-# Crear la DataBase
+-- Crea la DataBase
 CREATE database IF NOT EXISTS JOB;
 
-# Elegir la DataBases a usar
+-- Elige la DataBases a usar
 USE JOB;
 
 show tables;
 
-# Crear tablas y relaciones
+-- Crea tablas y relaciones
 /* 
 Tenemos una relación de uno a muchos entre Companies y Jobs, Locations y Jobs, y JobCategories y Jobs. 
 Además, tenemos una relación de muchos a muchos entre Jobs y Skills, 
