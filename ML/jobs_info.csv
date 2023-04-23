@@ -1,0 +1,94 @@
+dim_JobCategory,dim_Skills,salary_avg
+ml,"apis, classification, data management, github, keras, machine learning, ml models, +6",27.5
+ml,"finance, machine learning, python, research, trading strategies",150.0
+engineer,"agile, architecture, athena, aws, big data, ci/cd, data governance, +24",200.0
+ml,"architecture, ci/cd, computer science, computer vision, data pipelines, deep learning, devops, +15",129.0
+data scientist,"caffe, computer science, computer vision, deep learning, keras, machine learning, ml models, +7",84.0
+engineer,"aws, azure, blockchain, crypto, deep learning, docker, gcp, +13",0.0
+data scientist,"a/b testing, big data, computer science, computer vision, data analysis, data mining, economics, +11",179.0
+analyst,"agile, architecture, ci/cd, computer science, data analysis, data visualization, engineering, +9",49.5
+data scientist,"a/b testing, airflow, aws, bayesian, computer vision, deep learning, docker, +14",157.0
+data scientist,"computer science, computer vision, deep learning, engineering, llms, machine learning, phd",104.5
+data scientist,"genetics, privacy, security, testing",62.5
+engineer,"agile, architecture, azure, data analysis, databricks, data quality, db2, +12",147.5
+data scientist,"agile, consulting, data analytics",64.5
+engineer,"architecture, aws, biology, ci/cd, computer science, data analysis, devops, +14",133.5
+engineer,"agile, airflow, apis, azure, big data, elt, etl, +7",147.5
+data scientist,"dataops, finance, flink",56.0
+engineer,"a/b testing, airflow, data quality, data warehouse, engineering, genetics, machine learning, +6",147.5
+engineer,"apis, architecture, big data, data pipelines, engineering, pipelines, python",147.5
+data scientist,"big data, data analytics, knime, machine learning, power bi, python, tableau, +1",56.0
+analyst,data quality,80.5
+analyst,"kpis, machine learning, react",53.0
+data scientist,"airflow, architecture, athena, aws, big data, consulting, data analytics, +17",88.5
+analyst,"machine learning, react",53.0
+data scientist,"computer science, deep learning, engineering, machine learning, mathematics, phd, postdoc, +7",140.0
+data scientist,"agile, banking, data analytics, finance, machine learning, mysql, nosql, +8",88.5
+engineer,"agile, engineering, machine learning, testing",125.0
+analyst,"business intelligence, economics, excel, genetics, research, statistics",88.5
+data scientist,testing,88.5
+data scientist,"airflow, apis, aws, big data, ci/cd, databricks, docker, +12",157.0
+data scientist,"data visualization, excel, market research, research",62.5
+ml,"engineering, llms, machine learning, ux",70.5
+analyst,"consulting, consulting firm, data mining, etl, excel, industrial, power bi, +3",49.5
+engineer,"apis, architecture, big data, bigquery, cassandra, data pipelines, devops, +11",147.5
+data scientist,"agile, azure, business intelligence, ci/cd, data warehouse, devops, elasticsearch, +8",88.5
+engineer,"architecture, aws, big data, data analysis, data pipelines, docker, engineering, +12",218.5
+engineer,"big data, data governance, data pipelines, data quality, data warehousing, engineering, etl, +10",147.5
+engineer,"architecture, avro, aws, computer science, data governance, data pipelines, data warehousing, +11",147.5
+analyst,"bigquery, business intelligence, data analysis, economics, engineering, jupyter, mathematics, +7",98.5
+engineer,"apis, big data, computer science, deep learning, machine learning, mathematics, ml models, +8",64.5
+data scientist,"classification, clustering, computer science, consulting, consulting firm, data mining, machine learning, +4",88.0
+analyst,"agile, airflow, crypto, data analysis, data quality, finance, git, +4",102.5
+analyst,"business intelligence, e-commerce, excel, sql",53.0
+engineer,"architecture, aws, azure, bigquery, data analysis, distributed systems, engineering, +17",70.5
+engineer,"apis, aws, azure, ci/cd, engineering, git, golang, +6",147.5
+ml,"apis, classification, data analysis, engineering, json, machine learning, python, +2",148.0
+data scientist,"a/b testing, genetics, kpis, machine learning, mathematics, pipelines, python, +2",157.0
+engineer,"agile, airflow, apis, azure, big data, elt, etl, +7",133.5
+data scientist,"e-commerce, machine learning, pandas, pipelines, python, scipy, sql, +2",69.5
+analyst,"business analytics, business intelligence, cluster analysis, data management, data mining, data quality, econometrics, +9",111.0
+analyst,"data visualization, economics, engineering, excel, looker, mathematics, power bi, +3",98.5
+data scientist,"chatgpt, computer science, conversational ai, deep learning, engineering, gpt, machine learning, +2",0.0
+engineer,"airflow, azure, big data, bitbucket, ci/cd, computer science, databricks, +20",147.5
+data scientist,"data analysis, data analytics, etl, excel, power bi, sql, statistics",64.5
+engineer,"architecture, banking, blockchain, crypto, deep learning, engineering, finance, +6",272.0
+engineer,"computer science, deep learning, engineering, gpu, linux, machine learning, mathematics, +8",140.0
+data scientist,"agile, data analysis, data quality, engineering, oop, python, security, +1",69.5
+analyst,"architecture, data warehousing, engineering, finance, looker, machine learning, mathematics, +7",98.5
+engineer,"aws, databricks, data warehousing, pyspark, redshift, spark, sql",50.5
+engineer,"athena, aws, azure, big data, bigquery, business intelligence, databricks, +11",97.0
+engineer,"a/b testing, airflow, data quality, data warehouse, engineering, genetics, machine learning, +6",184.5
+analyst,security,102.5
+engineer,"airflow, apis, architecture, aws, azure, banking, big data, +41",192.5
+engineer,"chatbots, classification, computer science, engineering, gpt, huggingface, kubernetes, +15",61.5
+engineer,"agile, azure, banking, big data, business intelligence, computer science, data analytics, +7",147.5
+analyst,"data warehouse, engineering, finance, pyspark, python, redshift, statistics",111.0
+data scientist,"computer science, consulting, consulting firm, data analytics, data mining, data visualization, engineering, +7",157.0
+engineer,"athena, aws, big data, classification, computer science, data pipelines, engineering, +9",150.0
+engineer,"agile, computer science, engineering, etl, kanban, privacy, python, +2",147.5
+engineer,"apis, aws, banking, big data, blockchain, crypto, databricks, +10",78.5
+engineer,"big data, blockchain",97.0
+engineer,"apis, azure, big data, computer science, data analysis, databricks, data visualization, +17",147.5
+analyst,"business analytics, computer science, data analytics, data warehouse, engineering, excel, hpc, +8",84.5
+engineer,"airflow, apis, avro, aws, azure, engineering, etl, +8",96.5
+engineer,"chemistry, data governance, data mining, data quality, etl, excel, pipelines, +4",96.5
+engineer,"chatbots, classification, computer science, engineering, gpt, huggingface, kubernetes, +15",64.5
+engineer,"architecture, ci/cd, computer science, computer vision, deep learning, engineering, machine learning, +7",104.5
+engineer,"ansible, dataops, elk, kafka, linux, testing",80.5
+engineer,"airflow, big data, data analytics, data governance, data pipelines, elt, engineering, +7",147.5
+data scientist,"agile, architecture, consulting, cx, data analytics, data strategy, engineering, +3",80.5
+data scientist,"agile, biology, data analysis, drug discovery, engineering, github, machine learning, +4",80.0
+analyst,"consulting, consulting firm, data management, engineering, power bi, python, sql, +1",111.0
+engineer,"agile, airflow, aws, azure, ci/cd, databricks, data pipelines, +12",96.5
+engineer,"agile, airflow, aws, big data, consulting, consulting firm, data management, +18",146.0
+analyst,"business intelligence, consulting, credit risk, data analysis, data quality, engineering, mathematics, +9",56.0
+analyst,"airflow, git, power bi, python, sql, tableau",98.5
+engineer,"agile, azure, ci/cd, computer science, devops, docker, engineering, +12",62.5
+data scientist,"computer science, engineering, machine learning, mathematics, matlab, physics, python, +2",56.0
+data scientist,"aws, azure, engineering, gcp, google cloud, machine learning, mlops, +3",192.0
+engineer,"airflow, apis, aws, big data, ci/cd, databricks, docker, +12",157.0
+engineer,"airflow, architecture, aws, business intelligence, computer science, csv, data governance, +19",147.5
+data scientist,"aws, azure, computer science, consulting, data analytics, data warehousing, economics, +16",98.5
+analyst,"data quality, excel, kanban, looker, numpy, pandas, python, +2",49.5
+analyst,"machine learning, research",56.0
