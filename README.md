@@ -47,6 +47,8 @@ Este proyecto está bajo la licencia **MIT**.
 
 Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nuestro equipo:
 
+
+![icon](./src/data_engineer.ico) [Luis Rascón - Data Analyst/Scientist.](mailto:luis.francisco.rc@gmail.com)
 ![icon](./src/data_engineer.ico) [Catriel - Data Engineer.](mailto:perezcatriel@gmail.com)
 
 ## Documentación extra
