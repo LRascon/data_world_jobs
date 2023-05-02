@@ -1,8 +1,6 @@
-# Data World. Tendencias del Mercado Laboral de Data en Latinoamérica
-
-![Data World](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600)
-
 # Proyecto Latam Brain y el Renacimiento del Reclutamiento en la Era del Big Data
+
+![imagen_data_jobs](src\readme_image.jpg "Data Jobs Latam Brain")
 
 Este proyecto busca revolucionar la forma en que las empresas de reclutamiento identifican y contratan a profesionales especializados en ciencia de datos y análisis en la era del Big Data y la Transformación Digital.
 
@@ -26,10 +24,13 @@ La creciente demanda de profesionales especializados en ciencia de datos y anál
 Con este proyecto, Latam Brain está construyendo un puente entre el talento y las empresas en la era del Big Data y la Transformación Digital, donde ambos pueden alcanzar su máximo potencial gracias a la unión perfecta entre la ciencia de datos y el reclutamiento.
 
 
-## Descripción del proyecto
+## Herramientas
+- Lenguajes: Python, SQL
+- Librerias: beautifulsoup, re, pandas, streamlit, requests, scikit learn
+- Plataformas: AWS(S3,RDS,Glue,IAM), Tableau, Huggingface, MySQL, Jupyter Notebooks, notion
 
-Recopilación de datos en nuestra nube de Big Data para posterior análisis del mercado laboral latino americano
-relacionado a los puestos de Data con informes en Power BI. y creación de predicciones automatizadas con ML.
+
+# Interacción con el proyecto
 
 ## Instalación
 
