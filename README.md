@@ -39,7 +39,7 @@ Con este proyecto, Latam Brain está construyendo un puente entre el talento y l
 
 ## Dashboards
 - ["Dashboard Contexto General del Mercado Laboral Empleos Data" - Tableau Public](https://public.tableau.com/views/latam_brain_context/DashboardVistazoelMercadoActual?:language=es-ES&:display_count=n&:origin=viz_share_link)
-- ["Dashboard Mundial Data Jobs" - Tableau Public](https://public.tableau.com/views/latam_brain_mvp/DashboardGeneralDataJobs?:language=es-ES&:display_count=n&:origin=viz_share_link)
+- ["Dashboard Mundial Data Jobs" - Tableau Public](https://public.tableau.com/views/latam_brain_mvp_la/DashboardGeneralDataJobs?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 - ["Dashboard Región Latino América Data Jobs" - Tableau Public](https://public.tableau.com/views/latam_brain_mvp_la/DashboardLatinoamericaDataJobs?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
