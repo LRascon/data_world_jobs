@@ -75,7 +75,9 @@ Este proyecto está bajo la licencia **MIT**.
 Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nuestro equipo:
 
 
-![icon](./src/data_analyst.ico) [Luis Rascón - Data Analyst/Scientist.](mailto:luis.francisco.rc@gmail.com)
+![icon](./src/data_analyst.ico) Luis Rascón - Data Scientist.
+-![icon](./src/gmail_icon.svg) [luis.francisco.rc@gmail.com](mailto:luis.francisco.rc@gmail.com)
+-![icon](./src/linkedin_icon.svg) [www.linkedin.com/in/luis-francisco-rascon-carrasco](https://www.linkedin.com/in/luis-francisco-rascon-carrasco/)
 
 
 ![icon](./src/data_engineer.ico) [Catriel - Data Engineer.](mailto:perezcatriel@gmail.com)
