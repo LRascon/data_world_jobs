@@ -31,8 +31,19 @@ Con este proyecto, Latam Brain está construyendo un puente entre el talento y l
 - Librerias: beautifulsoup, re, pandas, streamlit, requests, scikit learn
 - Plataformas: AWS(S3,RDS,Glue,IAM), Tableau, Huggingface, MySQL, Jupyter Notebooks, notion
 
+## Documentación detallada del proyecto
+- ["Data World Jobs" - Notion](https://pinnate-moth-d4f.notion.site/Data-World-Tendencias-del-Mercado-Laboral-c61f044bd0db44988147fc961551666d)
 
-# Interacción con el proyecto
+## Sitio del Proyecto
+- ["Data World Jobs" - Hugging Face.co](https://huggingface.co/spaces/perezcatriel/data_world_jobs)
+
+## Dashboards
+- ["Dashboard Contexto General del Mercado Laboral Empleos Data" - Tableau Public](https://public.tableau.com/views/latam_brain_context/DashboardVistazoelMercadoActual?:language=es-ES&:display_count=n&:origin=viz_share_link)
+- ["Dashboard Mundial Data Jobs" - Tableau Public](https://public.tableau.com/views/latam_brain_mvp_la/DashboardGeneralDataJobs?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+- ["Dashboard Región Latino América Data Jobs" - Tableau Public](https://public.tableau.com/views/latam_brain_mvp_la/DashboardLatinoamericaDataJobs?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
+# ¿Quieres interactuar con el proyecto?
 
 ## Instalación
 
@@ -70,19 +81,19 @@ pip install requirements.txt
 
 Este proyecto está bajo la licencia **MIT**.
 
-## Contacto
+# Contacto
 
-Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nuestro equipo:
+Si tienes alguna duda o comentarios acerca del proyecto, no dudes en contactarnos:
 
+#### Luis Rascón - Data Scientist
+![icon](./src/gmail_icon.svg) [luis.francisco.rc@gmail.com](mailto:luis.francisco.rc@gmail.com)
+![icon](./src/linkedin_icon.svg) [www.linkedin.com/in/luis-francisco-rascon-carrasco](https://www.linkedin.com/in/luis-francisco-rascon-carrasco/)
 
-![icon](./src/data_analyst.ico) Luis Rascón - Data Scientist.
--![icon](./src/gmail_icon.svg) [luis.francisco.rc@gmail.com](mailto:luis.francisco.rc@gmail.com)
--![icon](./src/linkedin_icon.svg) [www.linkedin.com/in/luis-francisco-rascon-carrasco](https://www.linkedin.com/in/luis-francisco-rascon-carrasco/)
+#### Catriel Pérez - Data Scientist
+![icon](./src/gmail_icon.svg) [perezcatriel@gmail.com](mailto:perezcatriel@gmail.com) 
+![icon](./src/linkedin_icon.svg) [www.linkedin.com/in/catriel-p%C3%A9rez-870889174](https://www.linkedin.com/in/catriel-p%C3%A9rez-870889174)
 
-
-![icon](./src/data_engineer.ico) [Catriel - Data Engineer.](mailto:perezcatriel@gmail.com)
-
-## Documentación extra
-
-- ["Data World" - Notion](https://pinnate-moth-d4f.notion.site/Data-World-Tendencias-del-Mercado-Laboral-c61f044bd0db44988147fc961551666d)
+#### Matias Benitez - Data Scientist
+![icon](./src/gmail_icon.svg) [matiasbenitezcarrizo@gmail.com](mailto:matiasbenitezcarrizo@gmail.com)
+![icon](./src/linkedin_icon.svg) [www.linkedin.com/in/matias-benitez-carrizo]( https://www.linkedin.com/in/matias-benitez-carrizo/)
 
