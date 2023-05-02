@@ -1,8 +1,10 @@
 # Proyecto Latam Brain y el Renacimiento del Reclutamiento en la Era del Big Data
-
-![imagen_data_jobs](src\readme_image.jpg "Data Jobs Latam Brain")
-
 Este proyecto busca revolucionar la forma en que las empresas de reclutamiento identifican y contratan a profesionales especializados en ciencia de datos y análisis en la era del Big Data y la Transformación Digital.
+
+
+<div align="center">
+  <img src="./src/readme_image.jpg" alt="imagen_data_jobs" title="Data Jobs Latam Brain" width="640" height="427">
+</div>
 
 ## Contexto
 
@@ -73,7 +75,9 @@ Este proyecto está bajo la licencia **MIT**.
 Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nuestro equipo:
 
 
-![icon](./src/data_engineer.ico) [Luis Rascón - Data Analyst/Scientist.](mailto:luis.francisco.rc@gmail.com)
+![icon](./src/data_analyst.ico) [Luis Rascón - Data Analyst/Scientist.](mailto:luis.francisco.rc@gmail.com)
+
+
 ![icon](./src/data_engineer.ico) [Catriel - Data Engineer.](mailto:perezcatriel@gmail.com)
 
 ## Documentación extra
