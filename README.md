@@ -90,5 +90,5 @@ Si tienes alguna duda o comentarios acerca del proyecto, no dudes en contactarno
 
 #### Matias Benitez - Data Scientist
 ![icon](./src/gmail_icon.svg) [matiasbenitezcarrizo@gmail.com](mailto:matiasbenitezcarrizo@gmail.com)
-![icon](./src/linkedin_icon.svg) [www.linkedin.com/in/matias-benitez-4802591a8](https://www.linkedin.com/in/matias-benitez-4802591a8/)
+![icon](./src/linkedin_icon.svg) [www.linkedin.com/in/matias-benitez-carrizo]( https://www.linkedin.com/in/matias-benitez-carrizo/)
 
