@@ -42,6 +42,8 @@ Con este proyecto, Latam Brain está construyendo un puente entre el talento y l
 - ["Dashboard Mundial Data Jobs" - Tableau Public](https://public.tableau.com/views/latam_brain_mvp_la/DashboardGeneralDataJobs?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 - ["Dashboard Región Latino América Data Jobs" - Tableau Public](https://public.tableau.com/views/latam_brain_mvp_la/DashboardLatinoamericaDataJobs?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
+## Video acerca del proyecto
+- ["Tendencias del mercado laboral| LatamBrain | PF SoyHenry"](https://www.youtube.com/watch?v=G8PdiAwhbNM)
 
 # ¿Quieres interactuar con el proyecto?
 
